@@ -96,4 +96,6 @@ if(req.body.type == "photo")
 
 Return the appropriate response.
 
-[edwardjhchang.github.io](https://edwardjhchang.github.io)
+[Website (Under Construction)](http://edwardjhchang.herokuapp.com)
+[Facebook](https://www.facebook.com/edward.chang.520)
+[Instagram](https://www.instagram.com/prepared_impromptu/)
