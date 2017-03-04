@@ -1,0 +1,26 @@
+{
+  "name": "KakaoTalk Plus Friend Auto Reply RESTful API",
+  "version": "1.0.0",
+  "description": "KakaoTalk Plus Friend Auto Reply RESTful API Template built with Node JS",
+  "private": true,
+  "scripts": {
+    "start": "node ./bin/www",
+    "monitor": "nodemon app.js"
+  },
+  "author": {
+    "name": "Edward Joon-Hyuk Chang",
+    "email": "edwardjhchang@gmail.com"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.17.0",
+    "debug": "~2.2.0",
+    "express": "^4.15.0",
+    "grunt": "^1.0.1",
+    "morgan": "^1.8.1",
+    "request": "^2.79.0"
+  },
+  "engines": {
+    "node": ">=4.3.2"
+  }
+}
