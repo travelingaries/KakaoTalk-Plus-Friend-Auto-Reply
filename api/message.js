@@ -22,7 +22,7 @@ var textResponse = {
 };
 
 /* POST auto-reply messages. */
-router.get('/', function(req, res, next) {
+router.post('/', function(req, res, next) {
 	if(req.body.type == "photo"){
 		res.json(photoResponse);	
 	}
